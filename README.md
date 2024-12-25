@@ -2,10 +2,8 @@
 
 > 🚀 **Automated NFT Trading Bot for Capturing Rare Opportunities on Magic Eden**
 
-<div align="center">
-  <img src="https://magiceden.io/static/media/logo.37db5e61.svg" width="200" />
-  <p><em>Smart NFT Trading Strategy Powered by Magic Eden API</em></p>
-</div>
+![image](https://github.com/user-attachments/assets/65b1d659-334c-4781-a5e7-7abcb80c73d5)
+
 
 ---
 
