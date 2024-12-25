@@ -54,7 +54,7 @@ Picture a rare NFT collection:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/thin-floor-strategy.git
+   git clone https://github.com/JSCJason/thin-floor-strategy.git
    cd thin-floor-strategy
    ```
 
