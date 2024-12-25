@@ -46,8 +46,8 @@ Picture a rare NFT collection:
 ### Prerequisites
 
 - Python 3.8+
-- Solana wallet
-- Some SOL for trading
+- Wallet
+- Some SOL/ETH for trading
 - Basic understanding of NFTs
 
 ### Quick Setup
@@ -67,7 +67,7 @@ Picture a rare NFT collection:
    ```bash
    cp .env.example .env   # Copy configuration template
    # Edit .env with your:
-   # - Solana wallet private key
+   # - Wallet private key
    # - RPC endpoint (optional)
    # - Trading parameters
    
@@ -80,7 +80,7 @@ Customize your trading strategy in the `.env` file:
 
 | Parameter | Description | Default |
 |-----------|-------------|---------|
-| `MIN_VOLUME_THRESHOLD` | 7-day minimum volume (SOL) | 10.0 |
+| `MIN_VOLUME_THRESHOLD` | 7-day minimum volume (SOL/ETH) | 10.0 |
 | `MAX_SCARCITY_RATIO` | Maximum listing ratio | 0.1 |
 | `MAX_PRICE_SOL` | Maximum purchase price | 10.0 |
 
@@ -139,7 +139,6 @@ NFT trading involves risks. Always:
 ## 🔗 Resources
 
 - [Magic Eden API Documentation](https://api.magiceden.dev/)
-- [Solana Developer Resources](https://solana.com/developers)
 - [Project Discord Community](https://discord.gg/your-discord)
 
 ## 🤝 Contributing
