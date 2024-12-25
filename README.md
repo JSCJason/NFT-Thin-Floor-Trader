@@ -1,9 +1,6 @@
 # Magic Eden Trading 🚀 
+![image](https://github.com/user-attachments/assets/e58d5da4-9988-4f08-898a-b29ce72921a4)
 
-## 🧩 **How Thin Floor Strategy Benefits me?**  
-- **Focus on High-Value Opportunities:** Identify thin floors to maximize profitability.  
-- **Save Time:** Automate complex analysis and trading workflows.  
-- **Stay Ahead:** Act on real-time data with blazing speed and accuracy.  
 
 ## 🌟 Thin Floor Strategy: 
 
